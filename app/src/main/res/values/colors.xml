@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_blue">#1e0fbe</color>
+    <color name="field_border">#aaaaaa</color>
+    <color name="header">#1aaeb6</color>
+    <color name="category">#253132</color>
+
+</resources>

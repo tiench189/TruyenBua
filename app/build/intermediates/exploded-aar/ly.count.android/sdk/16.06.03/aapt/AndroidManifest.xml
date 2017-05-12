@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ly.count.android.sdk"
+    android:versionCode="1"
+    android:versionName="16.06.03" > <!-- <instrumentation android:name="ly.count.android.sdk.test.InstrumentationTestRunner" -->
+    <!-- android:targetPackage="ly.count.android.sdk"/> -->
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

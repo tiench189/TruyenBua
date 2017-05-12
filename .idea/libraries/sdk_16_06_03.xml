@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sdk-16.06.03">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ly.count.android/sdk/16.06.03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/ly.count.android/sdk/16.06.03/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ly.count.android/sdk/16.06.03/e74243729ad867212ef8a91c82378670f31418cf/sdk-16.06.03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
